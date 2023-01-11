@@ -2,10 +2,9 @@
 
 Developed by:
 
-- Moh Aufal Kholqi (3.34.21.0.15)
+- Candra Nurhidayat(3.34.21.0.07)
 
 ## Little Overview The App
 
-<img src="https://user-images.githubusercontent.com/92832439/199500513-b2510749-a03f-4fcf-9cf4-525e014c2ecf.png" height="400">
-<img src="https://user-images.githubusercontent.com/92832439/199500528-248441ab-210d-4f4a-911f-8922f29881ae.png" height="400">
-<img src="https://user-images.githubusercontent.com/92832439/199500533-0851dde8-e9ae-46c5-ae8c-e0541f6aba8a.png" height="400">
+![WhatsApp Image 2023-01-11 at 15 16 53](https://user-images.githubusercontent.com/117359556/211767533-67c7e876-d343-4fb7-b931-ed9197090516.jpg)
+![WhatsApp Image 2023-01-11 at 15 17 26](https://user-images.githubusercontent.com/117359556/211767542-7292ff35-8af8-4c35-9a2b-8e4a0e2e1622.jpg)
