@@ -23,32 +23,32 @@ class TourismPlace {
 
 var TourismPlaceList = [
   TourismPlace(
-      name: "Masjid Agung Demak",
-      goal: "Tempat Religi",
+      name: "Rowo jombor klaten",
+      goal: "Tempat wisata",
       description:
-          "Masjid Agung Demak merupakan masjid kuno yang dibangun oleh Raden Patah dari Kerajaan Demak dibantu para Walisongo pada abad ke-15 Masehi. Masjid ini masuk dalam salah satu jajaran masjid tertua di Indonesia. Lokasi Masjid Agung Demak terletak di Kampung Kauman, Kelurahan Bintoro, Kabupaten Demak, Jawa Tengah. Berada tepat di alun-alun dan pusat keramaian Demak, Masjid Agung Demak tak sulit untuk ditemukan.",
+          "Rowo Jombor berlokasi Dukuh Jombor, Desa Krakitan, Kecamatan Bayat. Jarak tempuh Rowo dari Kota Klaten sekitar 7,8 km dari pusat Kota Klaten. Hanya butuh waktu sekira 20 menit untuk sampai di Rowo Jombor bila menggunakan kendaraan.Rowo Jombor adalah waduk seluas 198 hektare dengan kedalaman hingga 4,5 meter. Dulu, Rowo Jombor dibangun untuk menampung air dari sungai-sungai di sekitarnya serta mengendalikan banjir. ",
       openDays: "Buka Setiap Hari",
       openTime: "08.00 - 22.00",
       ticketPrice: "Free",
-      imageAsset: 'images/masjid.jpeg',
+      imageAsset: 'images/rowo-jombor.jpeg',
       imageUrls: [
-        "https://asset.kompas.com/crops/QGKPFL4uZZ4BchK7S4xZzQy3oqk=/1x2:471x315/750x500/data/photo/2021/07/06/60e41b191b475.jpg",
-        "https://pariwisata.demakkab.go.id/wp-content/uploads/2022/01/mantap.jpg",
-        "https://awsimages.detik.net.id/community/media/visual/2022/04/03/jelang-buka-puasa-di-masjid-agung-demak.jpeg?w=700&q=90"
+        "https://mytrip123.com/wp-content/uploads/2022/02/rowo-jombor.jpg",
+        "https://gotripina.com/wp-content/uploads/2019/03/Foto-keindahan-rowo-Jombor-di-Klaten-sumber-ig-@ghsssn_20.jpg",
+        "https://t-2.tstatic.net/jogja/foto/bank/images/penampakan-pembangunan-taman-dan-jogging-track-rawa-jombor.jpg"
       ]),
   TourismPlace(
-      name: "Makam Sunan Kalijaga",
-      goal: "Wisata Religi",
+      name: "Candi Prambanan",
+      goal: "Wisata Edukasi",
       description:
-          "Sunan Kalijaga atau Raden Said salah satu dari kesembilan Wali yang sangat kharismatik dan berpengaruh dalam penyebaran agama Islam di Pulau Jawa, khususnya di Kerajaan Demak. Sunan Kalijaga dimakamkan di Kadilangu.Kadilangu adalah wilayah yang dihadiahkan khususnya kepada Sunan Kalijaga oleh Raden Sultan Fattah selaku Sultan atau Raja dari Kerajaan Demak .",
+          "Candi Prambanan merupakan candi Hindu yang terbesar di Indonesia. Sampai saat ini belum dapat dipastikan kapan candi ini dibangun dan atas perintah siapa, namun kuat dugaan bahwa Candi Prambanan dibangun sekitar pertengahan abad ke-9 oleh raja dari Wangsa Sanjaya, yaitu Raja Balitung Maha Sambu. Dugaan tersebut didasarkan pada isi Prasasti Syiwagrha yang ditemukan di sekitar Prambanan dan saat ini tersimpan di Museum Nasional di Jakarta. Prasasti berangka tahun 778 Saka (856 M) ini ditulis pada masa pemerintahan Rakai Pikatan.",
       openDays: "Buka Setiap Hari",
-      openTime: "00.00 - 23.00",
-      ticketPrice: "Free",
-      imageAsset: 'images/makam.jpg',
+      openTime: "06.30 - 17.00",
+      ticketPrice: "Rp50.000",
+      imageAsset: 'images/prambanan.jpg',
       imageUrls: [
-        "https://media-cdn.tripadvisor.com/media/photo-s/06/cf/8d/36/makam-sunan-kalijaga.jpg",
-        "https://cdn0-production-images-kly.akamaized.net/zG10MRDRs-qRQj_wixLD9vQHl5g=/1231x710/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3978617/original/065460900_1648562235-20220329-Tradisi_Ziarah_di_Makam_Sunan_Kalijaga-8.jpg",
-        "http://kebudayaan.kemdikbud.go.id/bpcbjateng/wp-content/uploads/sites/31/2018/01/New-Doc-2018-01-04_1.jpg"
+        "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200/https://widyalokawisata.com/wp-content/uploads/2020/03/CANDI-PRAMBANAN-7.jpg",
+        "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200/https://widyalokawisata.com/wp-content/uploads/2020/03/CANDI-PRAMBANAN-1.jpg",
+        "https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200/https://widyalokawisata.com/wp-content/uploads/2020/03/CANDI-PRAMBANAN-2.jpeg"
       ]),
   TourismPlace(
       name: "Taman Bunga Celosia",
@@ -65,24 +65,24 @@ var TourismPlaceList = [
         "https://asset.kompas.com/crops/GsXpeg6LS1b-ruZlEZHoAzUnbCw=/0x17:1134x584/780x390/data/photo/2021/02/05/601d0b6cabee2.jpg"
       ]),
   TourismPlace(
-      name: "Simpang Enam Demak",
-      goal: "Taman Kota",
+      name: "Taman Pintar",
+      goal: "Wisata Edukasi",
       description:
-          "Simpang Enam Demak adalah salah satu lokasi yang menjadi tujuan para pecinta suasana di Kabupaten Demak, maka dari itulah tempat ini selalu penuh di kunjungi oleh pemuda pemudi yang ingin menghabiskan waktu libur bersama teman dan keluarga dan bahkan alun alun kepunyaan demak ini sudah menjadi ikon bagi Demak kota wali tersebut. Kemudahan akses menuju tempat ini serta banyaknya souvenir yang di jajakan serta berbagai tempat kuliner di sekitar kawasan alun alun membuat Simpang Enam Demak menjadi tempat wisata yang banyak di datangi oleh pemuda pemudi serta keberadaannya di jantung kota atau pusat keramaian di kota Demak membuat lokasi ini semakin banyak di gemari masyarakat.",
-      openDays: "Setiap Hari",
-      openTime: "05.00 - 22.00",
-      ticketPrice: "Free",
-      imageAsset: 'images/demak.jpg',
+          "Taman Pintar Ngayogyakarta adalah wahana wisata yang terdapat di pusat Kota Yogyakarta, tepatnya di Jalan Panembahan Senopati No. 1-3, Yogyakarta, di kawasan Benteng Vredeburg. Taman ini memadukan tempat wisata rekreasi maupun edukasi dalam satu lokasi. Taman Pintar memiliki arena bermain sekaligus sarana edukasi yang terbagi dalam beberapa zona. Akses langsung kepada pusat buku eks Shopping Centre juga menambah nilai lebih Taman Pintar. Tempat rekreasi ini sangat baik untuk anak-anak pada masa perkembangan.",
+      openDays: "Selasa - Minggu",
+      openTime: "09.00 - 16.00",
+      ticketPrice: "Rp20.000",
+      imageAsset: 'images/taman_pintar.jpg',
       imageUrls: [
-        "https://assets.promediateknologi.com/crop/0x0:0x0/0x0/webp/photo/2022/12/10/919436742.jpg",
-        "https://www.jatengnews.id/wp-content/uploads/2022/08/Simpang-Enam-Demak-2.jpeg",
-        "https://demakkublog.files.wordpress.com/2016/03/08-des-2010-384.jpg?w=676"
+        "https://ik.imagekit.io/tk6ir0e7mng/uploads/2021/09/1631276385802.png",
+        "https://asset.kompas.com/crops/Uz0C_Y79lIwkrc633fVgF8Iuv5o=/0x35:1200x835/750x500/data/photo/2019/09/12/5d79e18f68aa5.jpg",
+        "https://blog.tiket.com/wp-content/uploads/Taman-Pintar-Yogyakarta_Blog-new-update-mei2020-IND.jpg"
       ]),
   TourismPlace(
       name: "Museum Mandala Bhakti",
       goal: "Wisata Edukasi",
       description:
-          "Museum Mandala Bhakti menyimpan banyak data, dokumentasi, hingga persenjataan TNI yang tradisional hingga modern. Museum Mandala Bhakti menempati gedung tua yang semula dirancang untuk Raad van Justitie atau Pengadilan Tinggi bagi golongan rakyat Eropa di Semarang.",
+          "Dilansir dari laman Asosiasi Museum Indonesia, Museum Mandala Bhakti menyimpan banyak data, dokumentasi, hingga persenjataan TNI yang tradisional hingga modern. Museum Mandala Bhakti menempati gedung tua yang semula dirancang untuk Raad van Justitie atau Pengadilan Tinggi bagi golongan rakyat Eropa di Semarang.",
       openDays: "Senin - Sabtu",
       openTime: "08.00 - 15.00",
       ticketPrice: "Free",
