@@ -93,20 +93,6 @@ var TourismPlaceList = [
         "https://asset.kompas.com/data/photo/2015/08/03/1619042mandalaaaa780x390.jpg"
       ]),
   TourismPlace(
-      name: "Lawang Sewu",
-      goal: "Wisata Edukasi",
-      description:
-          "Lawang Sewu adalah bangunan perkantoran yang terletak di seberang Tugu Muda, Kota Semarang, Jawa Tengah, Indonesia, yang dibangun sebagai kantor pusat Nederlandsch-Indische Spoorweg Maatschappij (NIS). Bangunan ini berstatus sebagai aset Kereta Api Indonesia (KAI) karena merupakan buah dari perebutan NIS oleh Djawatan Kereta Api Republik Indonesia (DKARI) pada masa Perang Kemerdekaan. Saat ini bangunan tersebut dijadikan sebagai museum dan galeri sejarah perkeretaapian oleh Unit Pusat Pelestarian dan Desain Arsitektur dan KAI Wisata.",
-      openDays: "Buka Setiap Hari",
-      openTime: "08.00 - 20.00",
-      ticketPrice: "Rp20.000",
-      imageAsset: 'images/lawang.jpg',
-      imageUrls: [
-        "https://cdn0-production-images-kly.akamaized.net/7-zHE6lvfLezx7GsbnBWoFMkBU8=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2747209/original/013661800_1552188191-4__8_.jpg",
-        "https://asset.kompas.com/crops/ng3V0bqjkvMak-i4TBDa5-WUk_0=/0x0:0x0/750x500/data/photo/2022/05/18/6284eff8eb5fa.jpg",
-        "https://www.kepogaul.com/wp-content/uploads/2018/07/000191-00_wisata-lawang-sewu-semarang_lawang-sewu_800x450_ccpdm-min-800x450.jpg.webp"
-      ]),
-  TourismPlace(
       name: "Kota Lama",
       goal: "Spot Foto",
       description:
